@@ -1,0 +1,24 @@
+body {
+  text-align: center;
+  margin: 100px auto;
+}
+
+button {
+  padding: 15px 40px;
+  margin-top: 20px;
+  cursor: pointer;
+  background-color: lightslategray;
+  border: none;
+  color: white;
+}
+
+#checksum {
+  margin-top: 15px;
+  color: brown;
+  font-size: 20px;
+}
+
+input {
+  padding: 10px 20px;
+  font-size: 20px;
+}
