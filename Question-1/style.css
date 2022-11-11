@@ -1,0 +1,26 @@
+body {
+  /* display: flex; */
+  text-align: center;
+  margin: 100px auto;
+}
+
+input {
+  padding: 10px 20px;
+  color: grey;
+  font-size: 30px;
+}
+
+button {
+  padding: 15px 40px;
+  margin-top: 20px;
+  cursor: pointer;
+  background-color: lightslategray;
+  border: none;
+  color: white;
+}
+
+#checknum {
+  margin-top: 15px;
+  color: brown;
+  font-size: 20px;
+}
